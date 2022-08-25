@@ -3,5 +3,5 @@ GraniteWMS Team Tasks
 
 ### Features
 
-- Project tasks 
+- Project Tasks 
 - Project / Support Issues 
